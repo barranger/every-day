@@ -4,7 +4,7 @@ Start of a personal website/app to help and track making yourself better one day
 
 ## TODO
 * ~~Set up the GitHub Pages~~ [Feb 21]
-* ~~Set up CI/CD for the project~~ [Feb 21]
+* ~~Set up CI/CD for the project~~ [Feb 22]
 * Create a "Coming Soon" page
 * Look at creating a Feed from a selected Reddit Sub Reddit
 * Look at adding RSS feeds
