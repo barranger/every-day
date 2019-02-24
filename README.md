@@ -6,12 +6,14 @@ Start of a personal website/app to help and track making yourself better one day
 * ~~Set up the GitHub Pages~~ [Feb 21]
 * ~~Set up CI/CD for the project~~ [Feb 22]
 * ~~Create a "Coming Soon" page~~ [Feb 23]
-* Cycle through some motivational quotes
+* ~~Cycle through some motivational quotes~~ [Feb 24]
+* Animate the quotes
 * Set up react router
 * Set up hooks
 * Look at creating a Feed from a selected Reddit Sub Reddit
 * Save config locally
 * Allow login via GitHub
+* Add Github Streaks?
 * Allow for saving config in the cloud
 * Allow for logging out
 * Look at adding RSS feeds
