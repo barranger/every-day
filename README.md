@@ -5,7 +5,7 @@ Start of a personal website/app to help and track making yourself better one day
 ## TODO
 * ~~Set up the GitHub Pages~~ [Feb 21]
 * ~~Set up CI/CD for the project~~ [Feb 22]
-* Create a "Coming Soon" page
+* ~~Create a "Coming Soon" page~~ [Feb 23]
 * Cycle through some motivational quotes
 * Set up react router
 * Set up hooks
