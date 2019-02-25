@@ -7,7 +7,7 @@ Start of a personal website/app to help and track making yourself better one day
 * ~~Set up CI/CD for the project~~ [Feb 22]
 * ~~Create a "Coming Soon" page~~ [Feb 23]
 * ~~Cycle through some motivational quotes~~ [Feb 24]
-* Animate the quotes
+* ~~cycle the quotes without reload~~[Feb 25]
 * Set up react router
 * Set up hooks
 * Look at creating a Feed from a selected Reddit Sub Reddit

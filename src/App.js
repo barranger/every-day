@@ -7,8 +7,13 @@ class App extends Component {
     super();
     var index = Math.floor(Math.random() * Quotes.length);
     var quote = Quotes[index];
+    
+    var self = this;
     this.state = {
-      quote
+      quote,
+      timer: setInterval(() => {
+        self.setState({quote: Quotes[Math.floor(Math.random() * Quotes.length)]});
+      }, 3000) 
     };
   }
 
