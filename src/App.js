@@ -1,33 +1,18 @@
 import React, { Component } from "react";
-import Quotes from "./data/quotes";
+import Splash from "./screens/Splash/Splash";
+import Home from "./screens/Home/Home";
 import "./App.css";
+import { BrowserRouter as Router, Route } from "react-router-dom";
 
 class App extends Component {
-  constructor() {
-    super();
-    var index = Math.floor(Math.random() * Quotes.length);
-    var quote = Quotes[index];
-    
-    var self = this;
-    this.state = {
-      quote,
-      timer: setInterval(() => {
-        self.setState({quote: Quotes[Math.floor(Math.random() * Quotes.length)]});
-      }, 3000) 
-    };
-  }
-
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <h2>
-            {this.state.quote.text}
-            <br />
-            <small>~{this.state.quote.author}</small>
-          </h2>
-        </header>
-      </div>
+      <Router>
+        <div>
+          <Route exact path="/" component={Splash} />
+          <Route path="/Home" component={Home} />
+        </div>
+      </Router>
     );
   }
 }
