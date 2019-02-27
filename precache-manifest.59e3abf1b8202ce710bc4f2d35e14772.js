@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/every-day/static/js/runtime~main.c2d67dad.js"
   },
   {
-    "revision": "054fdbd065ea3de76e63",
-    "url": "/every-day/static/js/main.054fdbd0.chunk.js"
+    "revision": "0647c6178f30631ef51e",
+    "url": "/every-day/static/js/main.0647c617.chunk.js"
   },
   {
     "revision": "aea3fabe4439a3327c38",
     "url": "/every-day/static/js/2.aea3fabe.chunk.js"
   },
   {
-    "revision": "054fdbd065ea3de76e63",
-    "url": "/every-day/static/css/main.7b1b653e.chunk.css"
+    "revision": "0647c6178f30631ef51e",
+    "url": "/every-day/static/css/main.b2c122c7.chunk.css"
   },
   {
-    "revision": "e6c686d4262fd85a9c15f0bd991ddea4",
+    "revision": "c337f5bad59e6dda37d468017be315e1",
     "url": "/every-day/index.html"
   }
 ];
