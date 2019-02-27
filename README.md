@@ -9,7 +9,7 @@ Start of a personal website/app to help and track making yourself better one day
 * ~~Cycle through some motivational quotes~~ [Feb 24]
 * ~~cycle the quotes without reload~~[Feb 25]
 * ~~Set up react router~~[Feb 26]
-* Set up hooks
+* ~~Set up react context~~[Feb 27]
 * Look at creating a Feed from a selected Reddit Sub Reddit
 * Save config locally
 * Allow login via GitHub
