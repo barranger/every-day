@@ -10,7 +10,9 @@ Start of a personal website/app to help and track making yourself better one day
 * ~~cycle the quotes without reload~~[Feb 25]
 * ~~Set up react router~~[Feb 26]
 * ~~Set up react context~~[Feb 27]
-* Look at creating a Feed from a selected Reddit Sub Reddit
+* ~~Look at creating a Feed from a selected Reddit Sub Reddit~~[Feb 28]
+* Create Post component for reddit posts
+* Add React Flexbox Grid
 * Save config locally
 * Allow login via GitHub
 * Add Github Streaks?
