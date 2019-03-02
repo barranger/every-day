@@ -1,13 +1,13 @@
 {
-  "main.css": "/every-day/static/css/main.7b1b653e.chunk.css",
-  "main.js": "/every-day/static/js/main.ce7bd974.chunk.js",
-  "main.js.map": "/every-day/static/js/main.ce7bd974.chunk.js.map",
+  "main.css": "/every-day/static/css/main.873b2dc3.chunk.css",
+  "main.js": "/every-day/static/js/main.7b35bfbf.chunk.js",
+  "main.js.map": "/every-day/static/js/main.7b35bfbf.chunk.js.map",
   "runtime~main.js": "/every-day/static/js/runtime~main.c2d67dad.js",
   "runtime~main.js.map": "/every-day/static/js/runtime~main.c2d67dad.js.map",
-  "static/js/2.b0b0f073.chunk.js": "/every-day/static/js/2.b0b0f073.chunk.js",
-  "static/js/2.b0b0f073.chunk.js.map": "/every-day/static/js/2.b0b0f073.chunk.js.map",
+  "static/js/2.51275041.chunk.js": "/every-day/static/js/2.51275041.chunk.js",
+  "static/js/2.51275041.chunk.js.map": "/every-day/static/js/2.51275041.chunk.js.map",
   "index.html": "/every-day/index.html",
-  "precache-manifest.e303a7a2a2d2d93b1b5f7e6305964857.js": "/every-day/precache-manifest.e303a7a2a2d2d93b1b5f7e6305964857.js",
+  "precache-manifest.c5c3e740e31ae9ab3808a547eb114c9d.js": "/every-day/precache-manifest.c5c3e740e31ae9ab3808a547eb114c9d.js",
   "service-worker.js": "/every-day/service-worker.js",
-  "static/css/main.7b1b653e.chunk.css.map": "/every-day/static/css/main.7b1b653e.chunk.css.map"
+  "static/css/main.873b2dc3.chunk.css.map": "/every-day/static/css/main.873b2dc3.chunk.css.map"
 }
