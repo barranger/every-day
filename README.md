@@ -12,7 +12,10 @@ Start of a personal website/app to help and track making yourself better one day
 * ~~Set up react context~~[Feb 27]
 * ~~Look at creating a Feed from a selected Reddit Sub Reddit~~[Feb 28]
 * ~~Create Post component for reddit posts~~[Mar 1]
-* Add React Flexbox Grid
+* ~~Add React Flexbox Grid~~[Mar 2]
+* Create proper timed component
+* Add Pomodoro component
+* Style Pomadoro component
 * Save config locally
 * Allow login via GitHub
 * Add Github Streaks?

@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { Col } from 'react-flexbox-grid';
 import "./RedditPost.css";
 
 class RedditPost extends Component {
@@ -10,7 +11,7 @@ class RedditPost extends Component {
     let text = this.props.post.data.title;
     text = text.substring(text.indexOf(']') + 1);
     
-    return !this.props.post.data.stickied && <div className="redditPost" key={this.props.index}>{img}{text}</div>
+    return !this.props.post.data.stickied && <Col xs={3} className="redditPost" key={this.props.index}>{img}{text}</Col>
   }
 }
 

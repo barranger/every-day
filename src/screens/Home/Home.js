@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import RedditPost from "../../component/reddit/RedditPost";
+import { Grid, Row, Col } from "react-flexbox-grid";
 import "./Home.css";
 
 class Home extends Component {
@@ -17,15 +18,18 @@ class Home extends Component {
 
   render() {
     return (
-      <div className="Home">
-        <header className="Home-header">
-          <h2>Get Better Every Day</h2>
-
+      <Grid className="Home">
+        <Row className="Home-header">
+          <Col xs={12}>
+            <h2>Get Better Every Day</h2>
+          </Col>
+        </Row>
+        <Row between="xs">
           {this.state.posts.map((post, index) => (
             <RedditPost post={post} index={index} />
           ))}
-        </header>
-      </div>
+        </Row>
+      </Grid>
     );
   }
 }
