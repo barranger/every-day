@@ -11,7 +11,7 @@ Start of a personal website/app to help and track making yourself better one day
 * ~~Set up react router~~[Feb 26]
 * ~~Set up react context~~[Feb 27]
 * ~~Look at creating a Feed from a selected Reddit Sub Reddit~~[Feb 28]
-* Create Post component for reddit posts
+* ~~Create Post component for reddit posts~~[Mar 1]
 * Add React Flexbox Grid
 * Save config locally
 * Allow login via GitHub

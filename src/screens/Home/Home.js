@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import RedditPost from "../../component/reddit/RedditPost";
 import "./Home.css";
 
 class Home extends Component {
@@ -18,15 +19,11 @@ class Home extends Component {
     return (
       <div className="Home">
         <header className="Home-header">
-          <h2>This is the Home header</h2>
-          <ul>
-            {this.state.posts.map((post, index) => {
-              var img = post.data.thumbnail !== "self" ? <img alt="preview" src={post.data.thumbnail} /> : "";
-              return (
-                !post.data.stickied && <li key={index}>{img}{post.data.title}</li>
-              );
-            })}
-          </ul>
+          <h2>Get Better Every Day</h2>
+
+          {this.state.posts.map((post, index) => (
+            <RedditPost post={post} index={index} />
+          ))}
         </header>
       </div>
     );
